@@ -5,7 +5,7 @@ LF=${LF%_}
 EXTENSION_NAME=TM2Scratch
 EXTENSION_ID=tm2scratch
 COLLABORATOR=DrDataNG_Bull-B
-EXTENSION_DESCRIPTION="Let's learn images and sounds."
+EXTENSION_DESCRIPTION="Let us learn images and sounds."
 
 cd node_modules/scratch-vm
 npm install ml5
